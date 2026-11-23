@@ -1,0 +1,33 @@
+# 個人照片(含室友的手),不要上傳
+data/
+data_crop/
+data_crop_m1/
+data_backup_test_roommate/
+/montage_*.png
+/montages/
+/docs/
+/archive_baseline/
+
+# 訓練產物與中間檔
+runs/
+keypoints/
+results*/
+logs/
+scene_out/
+*.npz
+*.joblib
+*.pt
+hand_landmarker.task
+
+# 環境與 IDE
+.venv/
+.idea/
+__pycache__/
+.DS_Store
+
+# 錄影(檔案大,且含人物;要放的話用連結或 GIF)
+*.mp4
+*.mov
+
+# 想放進 README 的圖請放在 figures/,並確認裡面沒有可辨識的人臉或個人資訊
+!figures/

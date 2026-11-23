@@ -1,0 +1,8 @@
+ultralytics==8.4.204
+mediapipe==1.2.2
+scikit-learn==1.9.1
+opencv-python==5.0.0.93
+matplotlib==3.11.2
+joblib==1.6.0
+Pillow==13.0.0
+numpy==2.4.6
