@@ -28,6 +28,7 @@ __pycache__/
 # 錄影(檔案大,且含人物;要放的話用連結或 GIF)
 *.mp4
 *.mov
+!demo.mp4
 
 # 想放進 README 的圖請放在 figures/,並確認裡面沒有可辨識的人臉或個人資訊
 !figures/
